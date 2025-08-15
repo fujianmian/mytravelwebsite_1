@@ -1,0 +1,11 @@
+node_modules/
+.env
+"node_modules/" 
+node_modules/ 
+.next.next/ 
+node_modules/ 
+npm-debug.log 
+".env.local" 
+.env.local 
+.next/ 
+node_modules/ 
