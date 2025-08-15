@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   keywords: 'no-code, app builder, conversation-driven development, event management, cyberpunk theme, Next.js, TypeScript',
   openGraph: {
     title: 'CyberEvents - Built with ChatAndBuild',
-    description: 'Cyberpunk-themed event management platform with neon aesthetics and futuristic design',
+    description: 'Cyberpunk-themed event management platform with neon aesthetics and futuristic design Are you sure?',
     images: ['https://cdn.chatandbuild.com/images/preview.png'],
   },
   twitter: {
