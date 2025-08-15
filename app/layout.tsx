@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'CyberEvents - Built with ChatAndBuild',
-    description: 'LOLOLOLOLOLOLOLOLOLOL',
+    description: 'LOLOLOLOLOLOLOLOLOLOLLO',
     images: ['https://cdn.chatandbuild.com/images/preview.png'],
     site: '@chatandbuild',
   },
